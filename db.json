@@ -1,0 +1,16 @@
+{
+  "suscripciones": [
+    {
+      "id": "sub-002",
+      "usuarioId": "LuoOIXuuikSxG4UEHtCtAoD1Eh62",
+      "nombre": "Spotify",
+      "precio": 9.99,
+      "moneda": "USD",
+      "cicloFacturacion": "mensual",
+      "proximaFacturacion": "2025-06-10",
+      "categoria": "Música",
+      "notas": "Cuenta familiar",
+      "activa": true
+    }
+  ]
+}
